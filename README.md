@@ -75,3 +75,4 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 
 
 Updated by Deepthi
+This is to test build pipeline view
